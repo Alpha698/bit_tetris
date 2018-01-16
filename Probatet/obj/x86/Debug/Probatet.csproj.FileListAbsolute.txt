@@ -1,0 +1,7 @@
+C:\Users\Влад\Desktop\Probatet\Probatet\bin\Debug\Probatet.exe
+C:\Users\Влад\Desktop\Probatet\Probatet\bin\Debug\Probatet.pdb
+C:\Users\Влад\Desktop\Probatet\Probatet\obj\x86\Debug\Probatet.exe
+C:\Users\Влад\Desktop\Probatet\Probatet\obj\x86\Debug\Probatet.pdb
+C:\Users\Влад\Desktop\Probatet\Probatet\obj\x86\Debug\Probatet.csprojResolveAssemblyReference.cache
+d:\Сollege\Колледж 3 курс\ООП(практ)\Probatet\Probatet\obj\x86\Debug\Probatet.exe
+d:\Сollege\Колледж 3 курс\ООП(практ)\Probatet\Probatet\obj\x86\Debug\Probatet.pdb
